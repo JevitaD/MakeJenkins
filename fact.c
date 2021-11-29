@@ -3,7 +3,7 @@ void fact() {
 void main()
 {
  int i,fact=1,number;
- printf("Enter a number: ");
+ printf("Enter a number: as ");
   scanf("%d",&number);
     for(i=1;i<=number;i++){
       fact=fact*i;
